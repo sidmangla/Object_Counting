@@ -1,0 +1,19 @@
+{
+	"weightPath":"/home/sid/Documents/model/object_count/yolov4.weights",
+	"metaPath":"/home/sid/Documents/model/object_count/secuity.data",
+	"configPath":"/home/sid/Documents/model/object_count/yolov4.cfg",
+	"orientation": "horizontal",
+	"line1": 350,
+	"line2": 400,
+	"line3":430,
+	"trigger":"Bottle",
+	"confidence": 45,
+	"model_width": 608,
+	"model_height": 608,
+	"draw": 1,
+	"print_coord":0,
+	"input":"/home/sid/sec.avi",
+	"output":"/home/sid/out.avi",
+	"Frame_Count": 9
+
+}
